@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Umair Mustafa</h1>
 <h3 align="center">A passionate Game developer from Pakistan</h3>
 
@@ -5,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umairmustafa1731" alt="umairmustafa1731" /></a> </p>
 
-- 🔭 I’m currently working on **Plane Shooter Game**
+- 🔭 I’m currently working on **Plane Shooter**
 
 - 🌱 I’m currently learning **Unity Game Engine**
 
@@ -17,6 +18,24 @@
 
 - ⚡ Fun fact **I often work at Kali Linux**
 
+<img align="right" height="150" src="https://europe1.discourse-cdn.com/unity/original/4X/d/7/1/d716e0a7d1c1fe504b46ce8497197d9cbdc7fbd9.gif"  />
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/umair-mustafa-a94150243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umair-mustafa-a94150243" height="30" width="40" /></a>
