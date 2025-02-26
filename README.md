@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umairmustafa1731" alt="umairmustafa1731" /></a> </p>
 
-- 🔭 I’m currently working on **Plane Shooter**
+- 🔭 I’m currently working on **Plane Shooter Game**
 
 - 🌱 I’m currently learning **Unity Game Engine**
 
@@ -14,6 +14,8 @@
 - 💬 Ask me about **Game Development**
 
 - 📫 How to reach me **u719165@gmail.com**
+
+- ⚡ Fun fact **I often work at Kali Linux**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
